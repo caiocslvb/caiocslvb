@@ -1,9 +1,19 @@
 ### Olá! Sou Caio,
-- 🔭 Perfil [Pessoal](https://github.com/caiosilva23)
 - 🔭 Graduado em Análise e Desenvolvimento de Sistemas 🚀
-- 🌱 Python Developer
-- 📫 Contate-me no email: caio.batista@fattureweb.com.br
+- 🌱 Full Stack Developer - Python | Django | PostgreSQL | JavaScript | React JS
+- 📫 Contate-me no email: caio.batista97@outlook.com
 - 📹 Conteúdo de programação no youtube: [caiosilvadev](https://www.youtube.com/@caiosilvadev)
+
+
+<div>
+  <a href="https://github.com/caiocslvb">
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caiocslvb&show_icons=true&theme=onedark&include_all_commits=false&count_private=true"/>
+  
+ 
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocslvb&layout=compact&langs_count=7&theme=onedark"/>
+</div>
 
 
           
@@ -20,7 +30,7 @@
 ###
   
 <div> 
-  <a href="https://www.instagram.com/caiocslv_b/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/caiocslv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caiosilva97/
 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
