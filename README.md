@@ -1,5 +1,6 @@
 ### Olá! Sou Caio,
 - 🔭 Graduado em Análise e Desenvolvimento de Sistemas 🚀
+- 🔭 Cursando MBA em Engenharia de Software pela USP/Esalq 🚀
 - 🌱 Full Stack Developer - Python | Django | PostgreSQL | JavaScript | React JS
 - 📫 Contate-me no email: caio.batista97@outlook.com
 - 📹 Conteúdo de programação no youtube: [caiosilvadev](https://www.youtube.com/@caiosilvadev)
